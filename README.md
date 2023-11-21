@@ -1,3 +1,12 @@
+## Resources
+
+[Jira board](https://catresourcecenter.atlassian.net/jira/software/projects/CRC/boards/1) | 
+[Figma design](https://www.figma.com/file/uTNVUW53FIumfwGI23aEUA/Current-Prototype?type=design&node-id=1791-21627&mode=design&t=ElEWpULOxVC38rks-0) | 
+[Desktop prototype](https://www.figma.com/proto/uTNVUW53FIumfwGI23aEUA/Current-Prototype?page-id=1791%3A19476&node-id=1791-20735&viewport=327%2C48%2C0.02&scaling=scale-down-width&starting-point-node-id=1791%3A19483)
+
+---
+# GENERIC TEMPLATE INSTRUCTIONS
+
 ### Template for an Express and React App Project
 Create full-stack apps with React and Express. Run your client and server, and do a restart of your database to have a full-stack project working in minutes.
 
